@@ -2,7 +2,7 @@
 
 A structured Python refresher tailored for automation, testing, and ADAS simulation — ideal for automotive software engineers.
 
-This repository complements my `automotive_brainbox` project, focusing purely on Python tooling, CLI applications, testing frameworks, and concurrent simulations — all within the automotive context.
+This repository complements my [`automotive_brainbox`](https://github.com/Op9745/automotive-brainbox) project, focusing purely on Python tooling, CLI applications, testing frameworks, and concurrent simulations — all within the automotive context.
 
 ---
 
@@ -85,7 +85,7 @@ This project is open-source under the MIT License.
 
 👤 Author
 
-Omprakash Jadhav  
+Omprakash Jadhav 
 Python & Automotive Engineer  
-[LinkedIn](https://www.linkedin.com/in/your-profile)  
-[Main Repo: automotive_brainbox](https://github.com/yourusername/automotive_brainbox)
+[LinkedIn](https://www.linkedin.com/in/omprakash-jadhav-65821a142/)  
+[Main Repo: automotive_brainbox](https://github.com/Op9745/automotive-brainbox)
