@@ -1,0 +1,32 @@
+🧭 Python Refresher Roadmap – `python_engine_brainbox`
+
+This roadmap outlines the 7-day Python refresher journey aligned with automation, testing, and automotive engineering.
+
+ Day 1: Python Basics + Logic
+- Variables, functions, loops
+- VIN checker, CAN parser
+
+ Day 2: OOP + Sensor Simulation
+- Class hierarchy, method overriding
+- ADASManager class, simulate sensors
+
+ Day 3: File I/O + CLI Tools
+- Read/write files, argparse
+- CLI log filter for vehicle data
+
+ Day 4: Testing with PyTest & BDD
+- PyTest, Behave, Gherkin scenarios
+- Emergency brake test case
+
+ Day 5: Concurrency – Threads & AsyncIO
+- threading, asyncio, queue
+- Simulate radar and camera concurrently
+
+ Day 6: Design Patterns + Clean Code
+- Factory, Observer, `@dataclass`
+- Build ECUFactory, AlertTrigger
+
+ Day 7: Final Capstone + Interview Prep
+- CLI ADAS test tool
+- Test cases + YAML config
+- Mock interview Q&A
